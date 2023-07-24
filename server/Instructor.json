@@ -1,0 +1,38 @@
+
+[
+  {
+    "name": "John Doe",
+    "age":"34",
+    "email": "johndoe@example.com"
+  },
+  {
+    "name": "Jane Smith",
+    "age":"44",
+    "email": "janesmith@example.com"
+  },
+  {
+    "name": "Michael Johnson",
+    "age":"45",
+    "email": "michaeljohnson@example.com"
+  },
+  {
+    "name": "Emily Davis",
+    "age":"56",
+   "email": "emilydavis@example.com"
+  },
+  {
+    "name": "Robert Wilson",
+    "age":"65",
+    "email": "robertwilson@example.com"
+  },
+  {
+    "name": "Olivia Martinez",
+    "age":"26",
+    "email": "oliviamartinez@example.com"
+  },
+  {
+    "name": "William Anderson",
+    "age":"65",
+    "email": "williamanderson@example.com"
+  }
+]
